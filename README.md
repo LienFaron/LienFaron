@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **majumdarasmit@gmail.com**
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
