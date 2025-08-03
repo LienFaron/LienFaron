@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm an engineering student who enjoys building cool things with Python and designing websites using frontend tools. Always exploring new ideas and learning along the way.
+I'm an engineering student who enjoys building cool things with Python and designing websites using frontend tools, and I'm always exploring new ideas and learning along the way.
 
 ---
 
